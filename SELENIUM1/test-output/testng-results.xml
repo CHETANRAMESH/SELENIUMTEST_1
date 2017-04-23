@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17408" started-at="2017-04-23T00:36:27Z" finished-at="2017-04-23T00:36:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17408" started-at="2017-04-23T00:36:27Z" finished-at="2017-04-23T00:36:45Z">
+      <class name="org.Group1.SELENIUM1.NewTest">
+        <test-method status="PASS" signature="TestCase1_Launch_WordPress_WebSite()[pri:0, instance:org.Group1.SELENIUM1.NewTest@18be83e4]" name="TestCase1_Launch_WordPress_WebSite" duration-ms="17355" started-at="2017-04-23T01:36:27Z" finished-at="2017-04-23T01:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1_Launch_WordPress_WebSite -->
+      </class> <!-- org.Group1.SELENIUM1.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
